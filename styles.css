@@ -7,14 +7,14 @@
   --containerBg: #1c1e20;
   --searchBg: var(--containerBg);
   --scrollbarColor: #3f3f3f;
-  --fontFamily: 'SauceCodePro Nerd Font', monospace;
-  --font2: 'Puderum';
+  --fontFamily: 'Cousine', monospace;
+  --font2: 'Cousine';
   --grey: #6b6b6b;
 }
 
 
    body {
-     background-image: url('./big.png');
+     background-image: url('./no.png');
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
