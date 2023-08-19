@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
+body {background-color: #0f0f0f;}
+
 :root {
   --bg: #2c2c2c;
   --fg: #ffffff;
@@ -11,7 +13,7 @@
   --font2: 'Cousine';
   --grey: #6b6b6b;
 }
-
+/*
 
    body {
      background-image: url('./no.png');
@@ -20,7 +22,7 @@
      background-attachment: fixed;
      background-position: center center;
    }
-}
+}*/
 
 body {
 
